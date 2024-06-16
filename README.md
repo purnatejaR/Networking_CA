@@ -23,7 +23,7 @@ Repository Structure
 
 1.sri.yml: Ansible playbook for deploying Docker containers.
 
-2.README.md: This file, providing an overview of the repository and instructions.
+2. README.md : This file, providing an overview of the repository and instructions.
 
 Instructions
 
